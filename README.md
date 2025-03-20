@@ -15,27 +15,6 @@ DigiHunt is a modern iOS application built with SwiftUI that allows users to exp
 - Smooth UI transitions
 - Error handling and user feedback
 
-## Requirements
-
-- iOS 15.0+
-- Xcode 13.0+
-- Swift 5.5+
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/DigiHunt.git
-```
-
-2. Open the project in Xcode:
-```bash
-cd DigiHunt
-open DigiHunt.xcodeproj
-```
-
-3. Build and run the project in Xcode
-
 ## Project Structure
 
 ```
@@ -189,4 +168,25 @@ The project includes:
 - CoreData
 - Foundation
 - Combine (for reactive programming)
-- 
+
+## Requirements
+
+- iOS 15.0+
+- Xcode 13.0+
+- Swift 5.5+
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/DigiHunt.git
+```
+
+2. Open the project in Xcode:
+```bash
+cd DigiHunt
+open DigiHunt.xcodeproj
+```
+
+3. Build and run the project in Xcode
+
